@@ -1,4 +1,4 @@
-# Files 1 - Namenlijst
+# Labo - Namenlijst
 
 ![](./media/image1.png)
 
